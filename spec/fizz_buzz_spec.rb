@@ -14,4 +14,7 @@ describe 'fizz_buzz' do
     it "returns 'fizz buzz' if number is divisible by 15" do
         expect(fizz_buzz(15)).to eq 'fizz buzz'
     end
+    it "returns 'please put in a number' if number is String " do
+        expect(fizz_buzz('')).to eq 'please put in a number'
+     end
 end
