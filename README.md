@@ -1,0 +1,2 @@
+The Fizz Buzz challenge - where you use rspec and code in ruby to create a "game" of Fizz Buzz and produce it using testdriven development.
+This was created in august 2019 during Craft Academys ITP-course. 
